@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-image: url('https://i.pinimg.com/564x/b8/94/0f/b8940fa1e935428291301712ee254ac8.jpg');
+}
+header{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
+
+
+li{
+    display: inline;
+    padding: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: burlywood;
+}
+img{
+    height: 230px;
+    width: 230px;
+    border-radius: 100%;
+}
+#PortFolio{
+    background-color: rgb(0, 238, 255);
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
